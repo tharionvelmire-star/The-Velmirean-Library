@@ -2,7 +2,7 @@
 const mangaData = {
   another: {
     title: "Wrong Guy Isekai",
-    cover: "file:///C:/Users/ayazu/Downloads/021.jpg",
+    cover: "cover manga.jpg",
     desc: "Seorang remaja berusia 18 tahun pergi ke Jepang untuk menepati janji lama dengan teman onlinenya yang telah meninggal. Dalam perjalanan mencari makam sang teman, ia tersesat di sebuah sekolah dan diselamatkan oleh seseorang. Namun, pertemuan itu justru membawanya ke dunia lain yang dimana tempat sihir, bahaya, dan takdir baru menantinya. Di dunia asing itu, ia harus bertahan hidup.",
     chapters: [
       { id: 1, title: "Chapter 1: Awal dari cerita" },
@@ -77,3 +77,4 @@ chapters: [
   //{ number: 3, title: "The Truth", desc: "Pertarungan dengan kebenaran..." },
   //{ number: 4, title: "The Final", desc: "Akhir dari perjalanan panjang..." },
 ];
+
